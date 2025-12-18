@@ -28,7 +28,7 @@ Apri Eclipse.
 
 Vai su File > Import... > Existing Maven Projects.
 
-Seleziona la cartella del progetto e clicca su Finish.
+Seleziona la cartella del progetto (CinemaSpring) e clicca su Finish.
 
 Nota: Assicurati di avere il plugin Lombok installato su Eclipse.
 
@@ -38,7 +38,7 @@ Il backend è attivo su: http://localhost:8080
 
  *Avviare il Frontend (React)
 
-Apri la cartella del frontend (es: cinema-web-app) con VS Code o il terminale.
+Apri la cartella del frontend (CinemaReact/cinema-web-app) con VS Code o il terminale.
 
 Digita il comando: npm install (solo la prima volta per scaricare le librerie).
 
